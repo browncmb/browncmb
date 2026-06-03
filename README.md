@@ -1,6 +1,6 @@
 # Crystal Brown | Linux System Engineer
 
-**RHCE-certified Linux System Engineer** focused on Ansible automation, Red Hat Enterprise Linux (RHEL) infrastructure, security hardening, and compliance-focused Linux operations. Earned the **Red Hat Certified Engineer in Ansible (RHCE)** with a **300/300 score**.
+RHCE-certified Linux System Engineer focused on Ansible automation, Red Hat Enterprise Linux (RHEL) infrastructure, security hardening, and compliance-focused Linux operations. Earned the Red Hat Certified Engineer in Ansible (RHCE) with a 300/300 score, validating hands-on Ansible automation and Linux administration skills.
 
 This GitHub profile highlights hands-on Linux infrastructure automation projects across identity management, compliance remediation, system hardening, validation, and technical documentation.
 
@@ -15,25 +15,19 @@ This GitHub profile highlights hands-on Linux infrastructure automation projects
 
 ## Current Project Series
 
-This project series demonstrates enterprise Linux infrastructure automation using Ansible across identity management, compliance remediation, and system hardening workflows.
+This project series demonstrates a build → validate → remediate → harden workflow across enterprise Linux systems using Ansible and RHEL.
 
 ### 1. FreeIPA & NFS Home Directories
 
-Automated FreeIPA server and client deployment with centralized user management, NFS-backed home directories, and autofs-based roaming access across Linux clients.
-
-**Technologies:** Ansible, RHEL, FreeIPA, NFS, autofs
+Automates centralized identity management, FreeIPA client enrollment, NFS-backed home directories, and autofs-based roaming access across RHEL client systems.
 
 ### 2. RHEL 9 DISA STIG Compliance Automation
 
-Automated compliance scanning and remediation for RHEL 9 FreeIPA client systems using OpenSCAP, DISA STIG security content, Red Hat STIG automation, and pre/post remediation validation.
-
-**Technologies:** Ansible, RHEL 9, OpenSCAP, DISA STIG, scap-security-guide
+Automates RHEL 9 compliance scanning, remediation, control overrides, and post-remediation validation using Ansible and OpenSCAP.
 
 ### 3. Linux System Hardening Automation
 
-Built a reusable Ansible role to harden RHEL 9 systems using SELinux, firewalld, fail2ban, handlers, templates, defaults, variables, and idempotency testing.
-
-**Technologies:** Ansible Roles, RHEL 9, SELinux, firewalld, fail2ban, Jinja2
+Builds reusable Ansible hardening automation for RHEL 9 systems using SELinux, firewalld, fail2ban, SSH, sudo, templates, handlers, and idempotent configuration.
 
 ## Certifications
 
@@ -43,7 +37,7 @@ Built a reusable Ansible role to harden RHEL 9 systems using SELinux, firewalld,
 
 ## Tools & Technologies
 
-**Automation:** Ansible, Ansible Playbooks, Ansible Roles, Bash  
+**Automation:** Ansible, Ansible Playbooks, Ansible Roles, Ansible Vault, Bash  
 **Linux:** Red Hat Enterprise Linux (RHEL), LVM, NFS, autofs  
 **Security & Compliance:** SELinux, firewalld, fail2ban, OpenSCAP, DISA STIG  
 **Identity & Access:** FreeIPA, SSH, sudo  
