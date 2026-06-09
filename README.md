@@ -1,19 +1,23 @@
 # Crystal Brown | Linux System Engineer
 
-RHCE-certified Linux System Engineer focused on Ansible automation, Red Hat Enterprise Linux (RHEL) infrastructure, security hardening, and compliance-focused Linux operations. Earned the Red Hat Certified Engineer in Ansible (RHCE) with a 300/300 score, validating hands-on Ansible automation and Linux administration skills.
+RHCE-certified Linux Systems Administrator focused on Red Hat Enterprise Linux (RHEL), Ansible automation, infrastructure hardening, identity management, and compliance-focused Linux operations.
 
-This GitHub profile highlights hands-on Linux infrastructure automation projects across identity management, compliance remediation, system hardening, validation, and technical documentation.
+Earned the Red Hat Certified Engineer in Ansible (RHCE) with a 300/300 score, validating hands-on Ansible automation, troubleshooting, and Linux administration skills.
+
+This GitHub profile highlights hands-on Linux infrastructure projects across identity management, NFS storage, compliance remediation, system hardening, monitoring, validation, and technical documentation.
 
 ## Focus Areas
 
 - Red Hat Enterprise Linux (RHEL)
 - Ansible automation and configuration management
 - Linux identity and access management
-- Security hardening and compliance
+- NFS storage and autofs
+- SSH, sudo, SELinux, and firewalld hardening
 - DISA STIG remediation and OpenSCAP validation
+- Monitoring, logging, and operational troubleshooting
 - Infrastructure documentation and repeatable deployment workflows
 
-## Current Project Series
+## Featured Project Series
 
 This project series demonstrates a build → validate → remediate → harden workflow across enterprise Linux systems using Ansible and RHEL.
 
@@ -29,6 +33,12 @@ Automates RHEL 9 compliance scanning, remediation, control overrides, and post-r
 
 Builds reusable Ansible hardening automation for RHEL 9 systems using SELinux, firewalld, fail2ban, SSH, sudo, templates, handlers, and idempotent configuration.
 
+## Supporting Lab Repository
+
+### RHEL Admin Ticket Labs
+
+Documents selected RHEL administration scenarios covering provisioning, identity integration, storage, automation, hardening, logging, monitoring, troubleshooting, backup, and vulnerability remediation.
+
 ## Certifications
 
 - Red Hat Certified Engineer in Ansible (RHCE)
@@ -38,11 +48,11 @@ Builds reusable Ansible hardening automation for RHEL 9 systems using SELinux, f
 ## Tools & Technologies
 
 **Automation:** Ansible, Ansible Playbooks, Ansible Roles, Ansible Vault, Bash  
-**Linux:** Red Hat Enterprise Linux (RHEL), LVM, NFS, autofs  
-**Security & Compliance:** SELinux, firewalld, fail2ban, OpenSCAP, DISA STIG  
-**Identity & Access:** FreeIPA, SSH, sudo  
-**Infrastructure:** VMware vSphere/ESXi, VM provisioning  
-**Operations:** Nagios, Checkmk, Logrotate  
+**Linux:** RHEL, CentOS Stream, systemd, LVM, NFS, autofs  
+**Security & Compliance:** SELinux, firewalld, fail2ban, OpenSCAP, DISA STIG, Lynis, OpenVAS  
+**Identity & Access:** FreeIPA, SSSD, Kerberos, SSH, sudo  
+**Infrastructure:** VMware vSphere/ESXi, VM provisioning, Kickstart  
+**Monitoring & Logging:** Nagios, CheckMK, Graylog, Logrotate  
 **Version Control & Collaboration:** Git, GitHub, GitLab, Jira, Zendesk  
 
 ## Connect
