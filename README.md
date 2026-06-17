@@ -47,13 +47,15 @@ Documents selected RHEL administration scenarios covering provisioning, identity
 
 ## Tools & Technologies
 
-**Automation:** Ansible, Ansible Playbooks, Ansible Roles, Ansible Vault, Bash
-**Linux:** Red Hat Enterprise Linux (RHEL), systemd, LVM, NFS, autofs
-**Security Hardening & Compliance:** SELinux, firewalld, fail2ban, OpenSCAP, DISA STIG, Lynis, OpenVAS
-**Identity & Access:** FreeIPA, SSSD, Kerberos, SSH, sudo
-**Infrastructure:** VMware vSphere/ESXi, VM provisioning, Kickstart
-**Monitoring & Logging:** Nagios, CheckMK, Graylog, Logrotate
-**Version Control & Collaboration:** Git, GitHub, GitLab, Jira, Zendesk
+| Area                            | Tools                                                             |
+| ------------------------------- | ----------------------------------------------------------------- |
+| Automation                      | Ansible, Ansible Playbooks, Ansible Roles, Ansible Vault, Bash    |
+| Linux                           | Red Hat Enterprise Linux (RHEL), systemd, LVM, NFS, autofs        |
+| Security Hardening & Compliance | SELinux, firewalld, fail2ban, OpenSCAP, DISA STIG, Lynis, OpenVAS |
+| Identity & Access               | FreeIPA, SSSD, Kerberos, SSH, sudo                                |
+| Infrastructure                  | VMware vSphere/ESXi, VM provisioning, Kickstart                   |
+| Monitoring & Logging            | Nagios, CheckMK, Graylog, Logrotate                               |
+| Version Control & Collaboration | Git, GitHub, GitLab, Jira, Zendesk                                |
 
 ## Connect
 
