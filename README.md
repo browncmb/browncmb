@@ -29,9 +29,9 @@ Automates centralized identity management, FreeIPA client enrollment, NFS-backed
 
 Automates baseline DISA STIG scanning, report collection, and selected control impact analysis using Ansible, OpenSCAP, and SCAP Security Guide content in a FreeIPA-based Linux environment.
 
-### 3. Linux System Hardening Automation
+### 3. Linux System Hardening Automation (In Progress)
 
-Builds reusable Ansible hardening automation for RHEL 9 systems using SELinux, firewalld, fail2ban, SSH, sudo, templates, handlers, and idempotent configuration.
+Developing reusable Ansible hardening automation for RHEL 9 systems using firewalld, SELinux, fail2ban-based SSH protection, templates, handlers, role variables, and idempotent configuration.
 
 ## Supporting Lab Repository
 
